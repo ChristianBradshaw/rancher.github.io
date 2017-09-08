@@ -16,7 +16,7 @@ section{
 }
 
 .headerBG{
-  background: url('/resources/img/cloudBG.png') no-repeat;
+  background: url('rancher.github.io/resources/img/cloudBG.png') no-repeat;
   height: 50vh;
 }
 
