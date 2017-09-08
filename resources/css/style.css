@@ -1,0 +1,88 @@
+body {
+  font-family: 'Amatic SC', cursive;
+  background: #6ee0b0;
+}
+
+section{
+  padding: 30px 0;
+}
+
+.ctaButtons{
+  padding: 30px 0 15px;
+}
+
+.container{
+  max-width: 800px;
+}
+
+.headerBG{
+  background: url('/resources/img/cloudBG.png') no-repeat;
+  height: 50vh;
+}
+
+.mainLogo{
+  margin-bottom: -70px
+}
+
+.callToAction{
+  margin-top: -150px
+}
+
+.callToAction .btn{
+  font-size: 25px;
+  min-width: 230px;
+}
+
+h1,h2{
+    color: white;
+}
+
+h1{
+  font-size: 50px;
+  line-height: 70px;
+  text-shadow: 1px 1px 5px #888;
+}
+
+.merchIcon{
+  width: 200px;
+  position: relative;
+}
+
+.merchText{
+  font-weight: 700;
+}
+
+.social-icons{
+  padding: 0 250px;
+}
+
+.textPortion{
+  background: url('/resources/img/textBG.png') no-repeat;
+  background-position: center;
+  font-size: 25px;
+  line-height: 33.8px;
+  font-weight: bold;
+}
+
+.newsletter{
+  background-color: #61c79c;
+  border: solid 2px #222222;
+}
+
+.textPortion h3{
+  font-size: 40px;
+  line-height: 33.8px;
+  font-weight: bold;
+}
+
+.desktop img{
+  width: 100%;
+}
+
+footer p{
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+
+
