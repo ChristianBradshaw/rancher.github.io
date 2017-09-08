@@ -16,7 +16,7 @@ section{
 }
 
 .headerBG{
-  background: url('/resources/img/cloudBG.png') no-repeat;
+  background: url('resources/img/cloudBG.png') no-repeat;
   height: 50vh;
 }
 
@@ -57,7 +57,7 @@ h1{
 }
 
 .textPortion{
-  background: url('/resources/img/textBG.png') no-repeat;
+  background: url('resources/img/textBG.png') no-repeat;
   background-position: center;
   font-size: 25px;
   line-height: 33.8px;
