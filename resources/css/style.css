@@ -57,7 +57,7 @@ h1{
 }
 
 .textPortion{
-  background: url('/resources/img/textBG.png') no-repeat;
+  background: url('https://christianbradshaw.github.io/rancher.github.io/resources/img/textBG.png') no-repeat;
   background-position: center;
   font-size: 25px;
   line-height: 33.8px;
